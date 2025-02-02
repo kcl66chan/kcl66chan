@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- I'm currently a Data Analyst in HSBC HK, studying a 2 years Master of Cyber Secuirty in University of Adelaide.
+- I am looking for internships related to cyber security/Data/Business Analysis in South Australia or anywhere remote will also do
+- Got 3+ years of experience in Project Deployment, Business Analysis as well as Data analysis in Bank and Insurance Sector (Manulife)
+- Certificates: Scrum Master (PSM level 2), PRINCE 2, IELTS 8/9
+- Reach me at Linkedln: https://www.linkedin.com/in/kchanhkust/
+- Or +61 0481 391 604
 <!--
 **kcl66chan/kcl66chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
